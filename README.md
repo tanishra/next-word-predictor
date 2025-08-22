@@ -6,7 +6,7 @@ A deep learning-based **Next Word Prediction** model trained on the **first 10,0
 
 ## 🚀 Demo
 
-[Click here to try the app →](#) *(Add your deployed link here if available)*
+[Click here to try the app →](#) *(https://next-word-predictor-ht4w7x7avkqinfrjigrkti.streamlit.app)*
 
 ---
 
